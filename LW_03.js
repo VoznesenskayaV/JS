@@ -9,7 +9,7 @@ function addNumbers(a, b) {
     return a + b;
   }
 const result = addNumbers(5, 3);   
-console.log(result); // Ожидаемый результат: 8
+console.log(result);
   
 // Задание 3. Напишите функцию, которая возвращает квадрат числа
 function squareNumber(num) {
